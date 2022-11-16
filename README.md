@@ -1,11 +1,11 @@
-#Take one Down and Pass it Around
+# Take one Down and Pass it Around
 
 Build an express application that enables users to count down the number of bottles of beer. Don't like beer?
 
 Pass around bottles of soda, kombucha, or milk etc.
 
 
-##Requirements
+## Requirements
 
 * On the home page (get "/"), users should see:
 
